@@ -2,6 +2,8 @@
 
 TechStack :- MaterialUI + React+Redux + Typescript 
 
+Snapshoot of application :- quiz-app.png 
+
 Features of Application:-
 
 User can see all questions and answers
